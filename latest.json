@@ -1,9 +1,9 @@
 {
-  "version": "0.4.6",
-  "build": 19,
+  "version": "0.4.7",
+  "build": 20,
   "notes": [
-    "Thông báo bản mới ngay, không phải chờ"
+    "Chào bằng tên đệm và tên"
   ],
-  "size": 6948302,
+  "size": 6965918,
   "date": "2026-10-21"
 }
