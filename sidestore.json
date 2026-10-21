@@ -22,6 +22,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.4.9",
+          "buildVersion": "22",
+          "date": "2026-10-21",
+          "localizedDescription": "• Căn đều icon trong chi tiết buổi học",
+          "downloadURL": "https://github.com/NHL08/lich-giang-huph-ios-releases/releases/download/v0.4.9/LichGiang.ipa",
+          "size": 6969006,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.4.8",
           "buildVersion": "21",
           "date": "2026-10-21",
@@ -85,11 +94,11 @@
           "NSCalendarsUsageDescription": "App ghi các buổi của lớp, giảng viên bạn theo dõi vào Lịch trên iPhone và tự sửa khi lịch đổi. App chỉ sửa hoặc xoá các buổi do chính app tạo."
         }
       },
-      "version": "0.4.8",
+      "version": "0.4.9",
       "versionDate": "2026-10-21",
-      "versionDescription": "• Chọn tài khoản Google có sẵn trên máy khi đăng nhập",
-      "downloadURL": "https://github.com/NHL08/lich-giang-huph-ios-releases/releases/download/v0.4.8/LichGiang.ipa",
-      "size": 6965918
+      "versionDescription": "• Căn đều icon trong chi tiết buổi học",
+      "downloadURL": "https://github.com/NHL08/lich-giang-huph-ios-releases/releases/download/v0.4.9/LichGiang.ipa",
+      "size": 6969006
     }
   ],
   "news": []
