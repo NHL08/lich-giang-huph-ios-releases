@@ -1,9 +1,9 @@
 {
-  "version": "0.4.4",
-  "build": 17,
+  "version": "0.4.5",
+  "build": 18,
   "notes": [
-    "Sửa lỗi cài qua SideStore (tên App ID)"
+    "Bật đăng nhập Google bằng email trường"
   ],
-  "size": 6923358,
+  "size": 6948302,
   "date": "2026-10-21"
 }
