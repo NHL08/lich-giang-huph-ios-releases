@@ -1,8 +1,8 @@
 {
-  "version": "0.4.7",
-  "build": 20,
+  "version": "0.4.8",
+  "build": 21,
   "notes": [
-    "Chào bằng tên đệm và tên"
+    "Chọn tài khoản Google có sẵn trên máy khi đăng nhập"
   ],
   "size": 6965918,
   "date": "2026-10-21"
