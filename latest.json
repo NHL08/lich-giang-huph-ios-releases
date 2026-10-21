@@ -1,8 +1,8 @@
 {
-  "version": "0.4.5",
-  "build": 18,
+  "version": "0.4.6",
+  "build": 19,
   "notes": [
-    "Bật đăng nhập Google bằng email trường"
+    "Thông báo bản mới ngay, không phải chờ"
   ],
   "size": 6948302,
   "date": "2026-10-21"
