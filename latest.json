@@ -1,9 +1,9 @@
 {
-  "version": "0.4.8",
-  "build": 21,
+  "version": "0.4.9",
+  "build": 22,
   "notes": [
-    "Chọn tài khoản Google có sẵn trên máy khi đăng nhập"
+    "Căn đều icon trong chi tiết buổi học"
   ],
-  "size": 6965918,
+  "size": 6969006,
   "date": "2026-10-21"
 }
