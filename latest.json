@@ -1,9 +1,9 @@
 {
-  "version": "0.4.3",
-  "build": 16,
+  "version": "0.4.4",
+  "build": 17,
   "notes": [
-    "Bản đầu tiên cập nhật qua SideStore"
+    "Sửa lỗi cài qua SideStore (tên App ID)"
   ],
-  "size": 6922384,
+  "size": 6923358,
   "date": "2026-10-21"
 }
